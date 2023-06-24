@@ -1,16 +1,16 @@
 /**************************************************************************************************************************************
  * LOG:                                                                   							   								  *
  * VERSION					AUTHOR           					DATE 						      DESCRIPTION 		   			      *
- * 1.0.0 					BOOTLOADER Development team    		22 JUN,2023					  Initial Creation	                  *
+ * 1.0.0 					BOOTLOADER Development team    		22 JUN,2023					  Initial Creation	                      *
  **************************************************************************************************************************************/
 
 /**************************************************************************************************************************************
- * ! Title      	: Bootloader_Main SWC                                           							                     		 	      *
- * ! File Name	: main.c                                   		                   						                      	      *
- * ! Description : This file has the implementation of boot loader main application 			  						              *
- * ! Compiler  	: GNU ARM cross Compiler                                            							                      *
+ * ! Title      	: Bootloader_Main SWC                                           							                      *
+ * ! File Name	    : main.c                                   		                   						                      	  *
+ * ! Description    : This file has the implementation of boot loader main application 			  						              *
+ * ! Compiler  	    : GNU ARM cross Compiler                                            							                  *
  * ! Target 	  	: STM32F401cc Micro-Controller                                         							                  *
- * ! Layer 	  	: APP	                  						                                         							  *
+ * ! Layer 	  	    : APP	                  						                                         					      *
  **************************************************************************************************************************************/
 /**************************************************** Defines  ************************************************************************/
 #define VECTOR_TABLE_ADDRESS			0x08004000
